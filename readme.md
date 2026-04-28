@@ -57,9 +57,4 @@ An advanced natural language interface for financial transaction analysis. This 
    - `GET /history/{user_id}`: Retrieve past queries.
    - `GET /analytics/{user_id}`: Get spending insights.
 
-## 🔒 Security
-
-This project uses a `.gitignore` to ensure that sensitive files like `.env` (API Keys) and `.db` (Local Data) are never pushed to the cloud.
-
----
 Created by [Kashik Bhatia](https://github.com/Kash0714)
